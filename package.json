@@ -1,0 +1,23 @@
+{
+  "name": "browserify-experiment",
+  "version": "1.0.0",
+  "description": "## Versions",
+  "main": "index.js",
+  "dependencies": {
+    "gamma": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaosf/browserify-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaosf/browserify-experiment/issues"
+  },
+  "homepage": "https://github.com/kaosf/browserify-experiment"
+}
