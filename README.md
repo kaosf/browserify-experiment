@@ -7,6 +7,17 @@
 * npm: 1.4.28
 * browserify: 8.0.1
 
+## How to experiment
+
+```sh
+git clone git://github.com/kaosf/browserify-experiment.git
+cd browserify-experiment
+npm install -g browserify@8.0.1
+cd a
+./run.sh
+#=> 6.000000000000007
+```
+
 ## References
 
 * [substack/node-browserify](https://github.com/substack/node-browserify)
