@@ -1,4 +1,5 @@
 /node_modules
 
-/foo.js
-/bundle.js
+/a/foo.js
+/a/bundle.js
+/lib/bar.js
